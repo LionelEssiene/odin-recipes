@@ -1,2 +1,2 @@
 # odin-recipes
-First html project
+A basic recipe website 
